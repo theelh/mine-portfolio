@@ -1,4 +1,4 @@
-import{r as h,j as C}from"./index-DrPzIT-0.js";const X=`
+import{r as h,j as C}from"./index-w6TDgJfK.js";const X=`
 attribute vec2 a_position;
 
 void main() {
